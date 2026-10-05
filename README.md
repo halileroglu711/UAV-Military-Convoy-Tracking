@@ -150,7 +150,10 @@ UAV-Military-Convoy-Tracking/
 └── UAV-Military-Convoy-Tracking-output.mp4
 ```
 
-### License
+### 💼 License
+This project is licensed under the **MIT License**. <br>
+Check the [LICENSE](LICENSE) file for further detail.
+
 
 ### 📬 Contact
 - Let me know if i have done any mistakes 🙋. Im waiting for your contributions 🙂. Here is where you can find me:
