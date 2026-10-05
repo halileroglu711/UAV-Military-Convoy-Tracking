@@ -152,6 +152,8 @@ UAV-Military-Convoy-Tracking/
 
 
 ### Lisans
+Bu proje **MIT Lisansı** ile lisanslıdır. <br>
+Daha fazla bilgi için [LİSANS](LICENSE) dosyasına göz atın.
 
 ### 📬 İletişim
 - Herhangi bir hatam varsa bana bildirin🙋. Katkılarınızı bekliyorum 🙂.Bana buradan ulaşabilirsiniz:
