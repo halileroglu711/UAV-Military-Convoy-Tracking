@@ -1,0 +1,12 @@
+__pycache__/
+.venv05/
+data/
+preparing-data/original-video.mp4
+preparing-data/gathered-frames
+raw/
+runs/
+Temp-UAV-Convoy-Tracking.avi
+UAV-Convoy-Tracking.avi
+yolov8n.pt
+yolov8s.pt
+*.pyc
